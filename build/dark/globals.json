@@ -10,9 +10,9 @@
   },
   "ui": {
     "shadow": "#16161C",
-    "border": "#1A1C23",
-    "background": "#2C3240",
-    "backgroundAlt": "#151620",
+    "border": "#22242e",
+    "background": "#1d1f27",
+    "backgroundAlt": "#22242e",
     "accent": "#2E303E",
     "accentAlt": "#6C6F93",
     "secondaryAccent": "#E9436D",

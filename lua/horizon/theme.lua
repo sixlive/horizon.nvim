@@ -607,6 +607,7 @@ local function integrate_plugins(config, plugins, highlights)
   return highlights
 end
 
+-- This is where the money is, if we can reverse engineer this we should be able to create what we need.
 ---@param config horizon.Config
 function M.set_highlights(config)
   local bg = vim.o.background
